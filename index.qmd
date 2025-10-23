@@ -1,0 +1,79 @@
+---
+title: "A collection for previous work"
+subtitle: "Papers and projects I finished in georgetown"
+author: 
+  - name: "Troy Cheng"
+    email: yc1317@georgetown.edu
+    corresponding: true
+df-print: kable
+title-block-banner: "#0a0e1a"
+title-block-banner-color: "#4DB8FF"
+execute:
+  warning: false
+date: 2025-10-23
+format:
+  html:
+    toc: true
+    toc-title: "Contents"
+    toc-location: right
+    number-sections: true
+    number-depth: 3
+    smooth-scroll: true
+    css: troystyle.css
+    code-overflow: wrap
+    mathjax: true
+    includes:
+      in-header: header.html
+include-in-header:
+  text: |
+    <link rel="shortcut icon" href="assets/gu.ico" type="image/ico">         
+highlight-style: nord
+engine: knitr
+---
+
+# Academy
+
+## Fall 2024
+
+| Course Title | Department | Output | Output Type | 
+|---------------|-------------|--------------|--------------|
+| Intro CCT: Interdisplinary Problems & Methods | CCTP 5005 01 | Personal Website | Website |
+| Statistical Methodology | CCTP 5025 01 | [Analysis on the ideological leanings and policy preferences of registered voters who supported Donald Trump’s controversial actions such as his role in January 6th Capitol attack](docs.google.com/document/d/1GUM7ex6tWN2m1Gr0nq-hAvqKIkdSANhT/edit?rtpof=true&sd=true&tab=t.0) | Project |
+| Sentiment Analysis in Social Media | CCTP 5017 01 | [Sentiment Dynamics of Sequential Political Events: Examining the Trump Rally Shooting Incident and Trump’s Election Victory through Affective Events Theory](https://docs.google.com/document/d/1-IEonxxI7tzrmCB0v4mRbc0DvWJrmcGc/edit) | Paper ([Accepted by NCA conference](https://drive.google.com/file/d/1-2FMCu66vZMAEXSdBzS2Umw1EkHKtKpI/view)) |
+
+## Spring 2025
+
+| Course Title | Department | Output | Output Type | 
+|---------------|-------------|--------------|--------------|
+| FUNdamentals of Technology | CCTP 5006 01 | Presentation | Not Related |
+| Intro to Data Science | PPOL 6803 02 | [Policing by Prediction: Modeling Felony Risk and Severity in DC Using Supervised Machine Learning](https://troy-yu-cheng.github.io/final-project/) | Project |
+| Social Network Analysis | CCTP 5020 01 | [Structural Dynamics of Retweeter Amplification Backbone Networks: Analysis of COVID-19 Origin Misinformation on Twitter](https://troy-yu-cheng.github.io/sna-final-paper/) | Paper |
+
+## Summer 2025
+
+| Course Title | Department | Output | Output Type |
+|---------------|-------------|--------------|--------------|
+| Casual Inference for Computational Social Science | DSAN 5650 01 | [Do Coup Attempts Beget Coups? A V-Dem Country–Year Panel for Temporal Causal Inference](https://troy-yu-cheng.github.io/causalinference-finalproj/) | Project |
+
+## Fall 2025
+
+| Course Title | Department | Output | Output Type | 
+|---------------|-------------|--------------|--------------|
+| Big Data and Cloud Computing | DSAN 6000 01 | [AWS Data Analysis Projects (in progress)](https://drive.google.com/file/d/195cLYQMAVZz8lcc9q7HRb3vlpEjoumXe/view?usp=sharing) | Project |
+| Grad Startup Intern Seminar | UNXD 7950 01 | Internship Reflection | Not Related |
+| Security Architecture & Design | MPIT 6605 01 | In progress | Project |
+
+
+
+# Coding Skill
+
+## Work Experience
+
+| Role | Job Type | Output | Duration |
+|---------------|-------------|--------------|--------------|
+| Web Developer | On-campus | [Website developed with AWS Lightsail & Cloudflare](https://bode.vraga.org/) | 2025/2 - 2025/8  |
+
+## Certificates
+
+-  [OneCodeCamp Frontend Fundamentals](https://drive.google.com/file/d/1QxWpDXJfGckAejrkugazFkaPruBwoM9P/view) 
+-  [OneCodeCamp Data Analytics Fundamentals](https://drive.google.com/file/d/1gw59YsPshvTGwJpSZGEtDykfaYMAPmqb/view)
