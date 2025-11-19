@@ -59,7 +59,7 @@ engine: knitr
 
 | Course Title | Department | Output | Output Type | 
 |---------------|-------------|--------------|--------------|
-| Big Data and Cloud Computing | DSAN 6000 01 | [AWS Data Analysis Projects (in progress)](https://theoncxz.georgetown.domains/dsan-6000-project/docs/) | Project |
+| Big Data and Cloud Computing | DSAN 6000 01 | [AWS Reddit Data Analysis Projects (in progress)](https://theoncxz.georgetown.domains/dsan-6000-project/docs/) | Project |
 | Grad Startup Intern Seminar | UNXD 7950 01 | Internship Reflection | Not Related |
 | Security Architecture & Design | MPIT 6605 01 | In progress | Project |
 
