@@ -38,7 +38,7 @@ engine: knitr
 | Course Title | Department | Output | Output Type | 
 |---------------|-------------|--------------|--------------|
 | Intro CCT: Interdisplinary Problems & Methods | CCTP 5005 01 | [Personal Website](https://www.troycheng.georgetown.domains/) | Website |
-| Statistical Methodology | CCTP 5025 01 | [Analysis on the ideological leanings and policy preferences of registered voters who supported Donald Trump’s controversial actions such as his role in January 6th Capitol attack](docs.google.com/document/d/1GUM7ex6tWN2m1Gr0nq-hAvqKIkdSANhT/edit?rtpof=true&sd=true&tab=t.0) | Project |
+| Statistical Methodology | CCTP 5025 01 | [Analysis on the ideological leanings and policy preferences of registered voters who supported Donald Trump’s controversial actions such as his role in January 6th Capitol attack](https://docs.google.com/document/d/1GUM7ex6tWN2m1Gr0nq-hAvqKIkdSANhT/edit?rtpof=true&sd=true&tab=t.0) | Project |
 | Sentiment Analysis in Social Media | CCTP 5017 01 | [Sentiment Dynamics of Sequential Political Events: Examining the Trump Rally Shooting Incident and Trump’s Election Victory through Affective Events Theory](https://docs.google.com/document/d/1-IEonxxI7tzrmCB0v4mRbc0DvWJrmcGc/edit) | Paper ([Accepted by NCA conference](https://drive.google.com/file/d/1-2FMCu66vZMAEXSdBzS2Umw1EkHKtKpI/view)) |
 
 ## Spring 2025
